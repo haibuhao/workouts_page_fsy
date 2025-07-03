@@ -11,15 +11,15 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Arthur Feng 锻炼记录',
-  siteUrl: 'https://blog.4a1801.life',
-  logo: 'https://pan.4a1801.life:11443/d/public/logo1.jpg',
+  siteTitle: 'Zhihao 锻炼记录',
+  siteUrl: 'http://blog.gitloc.com:2089',
+  logo: 'https://s2.ax1x.com/2019/12/09/Q0mKJK.jpg',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
       name: '📝 Blog',
-      url: 'https://blog.4a1801.life',
+      url: 'http://blog.gitloc.com:2089',
     },
     {
       name: '⭐ Repo',
