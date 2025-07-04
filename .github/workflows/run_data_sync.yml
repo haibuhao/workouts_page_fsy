@@ -4,7 +4,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '00 1 * * *' # 北京时间09:00运行
-    - cron: '30 13 * * *' # 北京时间21:30运行
+    - cron: '30 14 * * *' # 北京时间22:30运行
+    - cron: '00 0 * * *' # 北京时间08:00运行
+    - cron: '00 13 * * *' # 北京时间21:00运行
+
   push:
     branches:
       - master
