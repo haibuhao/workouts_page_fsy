@@ -144,6 +144,22 @@
 "streak": 2
 },
 {
+"run_id": 1668515789000,
+"name": "",
+"distance": 1192.12,
+"moving_time": "0:10:35",
+"type": "Run",
+"start_date": "2022-11-15 12:36:29",
+"start_date_local": "2022-11-15 20:36:29",
+"location_country": "",
+"summary_polyline": null,
+"average_heartrate": 142.0,
+"average_speed": 1.877,
+"elevation_gain": 0.0,
+"source": "",
+"streak": 2
+},
+{
 "run_id": 1668688021000,
 "name": "",
 "distance": 1559.77,
@@ -2256,6 +2272,22 @@
 "streak": 1
 },
 {
+"run_id": 1714309374000,
+"name": "",
+"distance": 151.36,
+"moving_time": "0:02:28",
+"type": "Run",
+"start_date": "2024-04-28 13:02:54",
+"start_date_local": "2024-04-28 21:02:54",
+"location_country": "",
+"summary_polyline": null,
+"average_heartrate": 134.0,
+"average_speed": 1.023,
+"elevation_gain": 0.0,
+"source": "",
+"streak": 1
+},
+{
 "run_id": 9223370322545253807,
 "name": "VirtualRun from keep",
 "distance": 151.3599090576172,
@@ -2941,6 +2973,22 @@
 "average_speed": 2.57655936282403,
 "elevation_gain": null,
 "source": "Keep",
+"streak": 2
+},
+{
+"run_id": 1716813951000,
+"name": "",
+"distance": 870.2,
+"moving_time": "0:06:03",
+"type": "Run",
+"start_date": "2024-05-27 12:45:51",
+"start_date_local": "2024-05-27 20:45:51",
+"location_country": "",
+"summary_polyline": null,
+"average_heartrate": 170.0,
+"average_speed": 2.397,
+"elevation_gain": 0.0,
+"source": "",
 "streak": 2
 },
 {
@@ -3741,6 +3789,22 @@
 "average_speed": 2.490674599407655,
 "elevation_gain": null,
 "source": "Keep",
+"streak": 4
+},
+{
+"run_id": 1719577631000,
+"name": "",
+"distance": 3004.81,
+"moving_time": "0:21:42",
+"type": "Run",
+"start_date": "2024-06-28 12:27:11",
+"start_date_local": "2024-06-28 20:27:11",
+"location_country": "",
+"summary_polyline": null,
+"average_heartrate": 148.0,
+"average_speed": 2.308,
+"elevation_gain": 0.0,
+"source": "",
 "streak": 4
 },
 {
