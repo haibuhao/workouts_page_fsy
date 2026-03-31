@@ -63,7 +63,7 @@ const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
     : `, the right picture shows the activity trajectory in ${year}`);
 
 const LOCATION_INFO_MESSAGE_FIRST =
-  '我一开始是一个极度讨厌运动的人，后来喜欢上跑步机，接着是路跑，到最近的骑行';
+  '我一开始是一个极度讨厌运动的人，后来喜欢上跑步机，接着是路跑，到最近的登山';
 const LOCATION_INFO_MESSAGE_SECOND =
   '运动这件事，想想就很痛苦，但是完成了的成就感就是会带来多巴胺！';
 
