@@ -12,18 +12,18 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Zhihao 锻炼记录',
-  siteUrl: 'http://blog.gitloc.com:2089',
+  siteUrl: 'http://www.gitloc.com',
   logo: 'https://s2.ax1x.com/2019/12/09/Q0mKJK.jpg',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
       name: '📝 Blog',
-      url: 'http://blog.gitloc.com:2089',
+      url: 'http://www.gitloc.com',
     },
     {
       name: '⭐ Repo',
-      url: 'https://github.com/arthurfsy2/workouts_page_fsy',
+      url: 'https://github.com/haibuhao/workouts_page_fsy',
     },
   ],
 };
