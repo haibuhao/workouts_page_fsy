@@ -1,0 +1,61 @@
+[
+  {
+    "date": "2026-03-15",
+    "distance": 10.68,
+    "duration": 177,
+    "elevation": 845,
+    "hr": 146,
+    "max_hr": 180,
+    "note": "今天"
+  },
+  {
+    "file": "475920651039834216.fit",
+    "date": "2026-03-08",
+    "distance": 10.36,
+    "duration": 170.3,
+    "elevation": 853,
+    "hr": 151,
+    "max_hr": 181
+  },
+  {
+    "file": "475433898908614857.fit",
+    "date": "2026-02-15",
+    "distance": 10.84,
+    "duration": 177.7,
+    "elevation": 853,
+    "hr": 147,
+    "max_hr": 177
+  },
+  {
+    "date": "2025-12-06",
+    "distance": 10.5,
+    "duration": 152.9,
+    "elevation": 845,
+    "hr": 149,
+    "max_hr": 174
+  },
+  {
+    "date": "2025-10-26",
+    "distance": 11.64,
+    "duration": 290.3,
+    "elevation": 859,
+    "hr": 131,
+    "max_hr": 187
+  },
+  {
+    "date": "2025-04-05",
+    "distance": 13.1,
+    "duration": 256.6,
+    "elevation": 0,
+    "hr": 144,
+    "max_hr": 181
+  },
+  {
+    "date": "2024-12-01",
+    "distance": 13.0,
+    "duration": 268.2,
+    "elevation": 0,
+    "hr": 134,
+    "max_hr": 181
+  }
+]
