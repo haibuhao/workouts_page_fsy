@@ -221,7 +221,7 @@ const ActivityCard: React.FC<ActivityCardProps> = ({
 
 const ActivityList: React.FC = () => {
   const [interval, setInterval] = useState<IntervalType>('month');
-  const [activityType, setActivityType] = useState<string>('ride');
+  const [activityType, setActivityType] = useState<string>('hike');
   const navigate = useNavigate();
   const playTypes = new Set(
     (activities as Activity[]).map((activity) => activity.type.toLowerCase())
